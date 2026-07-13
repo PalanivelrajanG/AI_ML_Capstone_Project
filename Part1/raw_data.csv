@@ -1,0 +1,22 @@
+transaction_id,timestamp,revenue,customer_segment,numeric_stored_as_object,repetitive_string_col,missing_heavy_col
+TX1001,2026-01-01 08:00,150.50,Premium,45,East,12.5
+TX1002,2026-01-01 09:15,2200.00,Standard,12,West,
+TX1003,2026-01-01 10:30,95.00,Standard,85,North,14.2
+TX1004,2026-01-01 11:00,310.25,Discount,34,South,
+TX1005,2026-01-01 12:45,120.00,Premium,55,East,11.8
+TX1006,2026-01-01 14:00,4500.00,Standard,missing,West,
+TX1007,2026-01-01 15:30,85.50,Discount,22,North,15.1
+TX1008,2026-01-01 16:15,115.00,Premium,19,South,
+TX1009,2026-01-01 17:00,130.00,Standard,90,East,9.4
+TX1010,2026-01-01 18:30,8900.00,Standard,61,West,
+TX1011,2026-01-01 19:45,65.00,Discount,72,North,13.6
+TX1012,2026-01-01 21:00,140.25,Premium,40,South,
+TX1013,2026-01-01 22:15,180.00,Standard,28,East,10.1
+TX1014,2026-01-01 23:30,5200.00,Standard,missing,West,
+TX1015,2026-01-02 01:00,98.00,Discount,15,North,16.4
+TX1016,2026-01-02 02:15,110.00,Premium,67,South,
+TX1017,2026-01-02 03:30,165.50,Standard,53,East,11.2
+TX1018,2026-01-02 04:45,7100.00,Standard,88,West,
+TX1019,2026-01-02 06:00,75.00,Discount,10,North,12.9
+TX1020,2026-01-02 07:15,190.00,Premium,31,South,
+TX1020,2026-01-02 07:15,190.00,Premium,31,South,
